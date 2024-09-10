@@ -1,4 +1,4 @@
-import './header.css';
+import "./header.css";
 
 const Header = () => {
   return (
@@ -6,8 +6,8 @@ const Header = () => {
       <div className="logo">
         <h1>MyApp</h1>
       </div>
-      <div>
-        <button onClick={() => console.log('Reset clicked')}><h1>Reset</h1></button>
+      <div className="reset">
+        <button onClick={() => console.log("Reset clicked")}>Reset</button>
       </div>
     </header>
   );
