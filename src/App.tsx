@@ -1,10 +1,30 @@
-import './App.css'
-import Header from './components/header'
+import "./App.css";
+import Grid from "./components/grid";
+import Header from "./components/header";
 
 const App = () => (
-    <>
-      <Header />
-    </>
-)
+  <>
+    <Header />
+    <Grid
+      cards={[
+        { value: "apple" },
+        { value: "banana" },
+        { value: "cherry" },
+        { value: "apple" },
+        { value: "banana" },
+        { value: "cherry" },
+        { value: "apple" },
+        { value: "banana" },
+        { value: "cherry" },
+        { value: "apple" },
+        { value: "banana" },
+        { value: "cherry" },
+        { value: "apple" },
+        { value: "banana" },
+        { value: "cherry" },
+      ]}
+    />
+  </>
+);
 
-export default App
+export default App;
