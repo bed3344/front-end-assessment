@@ -18,6 +18,11 @@
   font-size: 24px;
 }
 
-.reset {
+.reset-container {
   margin: 2rem;
+}
+
+.reset-button {
+  padding: 10px;
+  font-size: 18px;
 }
