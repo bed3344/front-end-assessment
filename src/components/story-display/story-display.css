@@ -1,0 +1,19 @@
+.story-container {
+  text-align: center;
+  font-size: 20px;
+  padding-top: 2rem;
+  margin: auto;
+}
+
+.start-button {
+  padding: 20px;
+  background-color: #333;
+  color: #fff;
+  border: #fff 2px solid;
+  border-radius: 6px;
+}
+
+.start-button:hover {
+  cursor: pointer;
+  background-color: #201f1f;
+}
