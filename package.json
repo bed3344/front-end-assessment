@@ -13,6 +13,7 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-confetti": "^6.1.0",
+    "react-countdown-circle-timer": "^3.2.1",
     "react-dom": "^18.3.1",
     "react-minimal-modal": "^2.1.0",
     "react-use": "^17.5.1"

@@ -13,9 +13,6 @@
   margin-bottom: 5px; /* Extra margin equal to the width of the border, this prevents the cards from sliding slightly when clicked*/
 }
 
-.back {
-}
-
 .matched {
   background-color: #90ee90;
   border-color: #229954;
